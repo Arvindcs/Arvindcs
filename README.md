@@ -29,10 +29,10 @@ Hi, I'm [Arvind Patel](https://arvindcs.github.io/), a iOS Developer 🚀 from I
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@codewithArvind](https://www.instagram.com/codewitharvind/);
 
-**Languages and Tools:**  
- ** Swift
- ** SwiftUI
- ** Objective C
+**Languages :**  
+ ** Swift  <br/>
+ ** SwiftUI <br/>
+ ** Objective C <br/>
  ** Programminfg C++
 
 🚧 **My Todo Stats:**
