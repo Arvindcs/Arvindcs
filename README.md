@@ -12,7 +12,7 @@
   <img align="left" alt="Arvind's Telegram" width="22px" src="https://github.com/Arvindcs/Arvindcs/blob/main/Source/telegram.svg" />
 </a>
 
-<a href="https://www.instagram.com/codewitharvind/">
+<a href="https://www.instagram.com/developer.arvind/">
   <img align="left" alt="Arvind's Instagram" width="22px" src="https://github.com/Arvindcs/Arvindcs/blob/main/Source/instagram.svg" />
 </a>
 <br/>
@@ -27,7 +27,7 @@ Hi, I'm [Arvind Patel](https://arvindcs.github.io/), a iOS Developer 🚀 from I
 - 👨🏽‍💻 I’m currently working on client Project;
 - 🌱 I’m currently learning SwiftUI; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@codewithArvind](https://www.instagram.com/codewitharvind/);
+- 📫 How to reach me: [@developer.arvind](https://www.instagram.com/developer.arvind/);
 
 **Languages :**  
  ** Swift  <br/>
