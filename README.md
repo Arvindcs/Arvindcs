@@ -27,7 +27,7 @@ Hi, I'm [Arvind Patel](https://arvindcs.github.io/), a iOS Developer 🚀 from I
 - 👨🏽‍💻 I’m currently working on client Project;
 - 🌱 I’m currently learning SwiftUI; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@developer.arvind](https://www.instagram.com/developer.arvind/);
+- 📫 How to reach me: [@arvind_iosdev](https://www.instagram.com/arvind_iosdev/);
 
 **Languages :**  
  ** Swift  <br/>
